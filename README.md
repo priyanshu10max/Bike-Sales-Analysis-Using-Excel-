@@ -81,9 +81,7 @@ Excel Features Used:
 📌 Key Business Insights:
 
 * Customers aged 25-40 are the most frequent buyers.
-
 * Shorter commute distances correlate with higher likelihood of purchase.
-
 * Higher income groups show increased interest in bike ownership.
 
 * Single individuals tend to buy fewer bikes than married ones.
