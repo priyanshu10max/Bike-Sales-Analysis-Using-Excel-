@@ -1,7 +1,7 @@
 # Bike-Sales-Analysis-Using-Excel-
 🎯 Project Objective:
 Analyze customer demographics and buying behavior to determine factors influencing bike purchases.
-Use Excel to clean, analyze, and visualize data, and develop a dashboard to present actionable insights.
+Used Excel to clean, analyze, and visualize data, and develop a dashboard to present actionable insights.
 
 📁 Dataset:
 Bike Buyers Dataset
